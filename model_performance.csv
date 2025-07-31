@@ -1,0 +1,5 @@
+Model,Test_R²,RMSE_($),MAE_($)
+Random Forest,1.0,0.864,0.05
+Gradient Boosting,1.0,0.624,0.146
+Ridge Regression,0.999,2.66,0.177
+Linear Regression,0.998,2.66,0.187
